@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SJ0Bnt4mWMUE07sW6Ake/G4VBoojiS1RvLRKT0K59lQO1q/FkxyJsLUI7aW4jVbk9ns4E2ktTZLY/KtsFljtVw==",
+  "dgSpecHash": "U0hdyACv+TVkWWfa4fTiZa5UhqOEvCDU7ZGMY1dBJ64G8KK4xRNCu70eaGlJVh+iElYFgvc79EcC8Aa9w5Xx9Q==",
   "success": true,
-  "projectFilePath": "/Users/emerson/ProjetoMVC/ProjetoMVC.csproj",
+  "projectFilePath": "/Users/emerson/Projects/ProjetoMVC/ProjetoMVC.csproj",
   "expectedPackageFiles": [
     "/Users/emerson/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/emerson/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

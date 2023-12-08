@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emerson/ProjetoMVC/ProjetoMVC.csproj": {}
+    "/Users/emerson/Projects/ProjetoMVC/ProjetoMVC.csproj": {}
   },
   "projects": {
-    "/Users/emerson/ProjetoMVC/ProjetoMVC.csproj": {
+    "/Users/emerson/Projects/ProjetoMVC/ProjetoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emerson/ProjetoMVC/ProjetoMVC.csproj",
+        "projectUniqueName": "/Users/emerson/Projects/ProjetoMVC/ProjetoMVC.csproj",
         "projectName": "ProjetoMVC",
-        "projectPath": "/Users/emerson/ProjetoMVC/ProjetoMVC.csproj",
+        "projectPath": "/Users/emerson/Projects/ProjetoMVC/ProjetoMVC.csproj",
         "packagesPath": "/Users/emerson/.nuget/packages/",
-        "outputPath": "/Users/emerson/ProjetoMVC/obj/",
+        "outputPath": "/Users/emerson/Projects/ProjetoMVC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emerson/.nuget/NuGet/NuGet.Config"
